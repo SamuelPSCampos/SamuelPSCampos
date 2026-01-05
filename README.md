@@ -6,9 +6,26 @@ I'm an **intermediate Lua / Luau programmer** with a strong interest in **game d
 
 ## 🧠 Skills & Knowledge
 
-- **Lua / Luau** — intermediate level  
-- **HTML, CSS, JavaScript** — basic knowledge 
-- Modular code organization and system design
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+<img src="https://img.shields.io/badge/Luau-00CFCF?style=for-the-badge&logo=lua&logoColor=white">
+<br><br>
+<b>Intermediate level</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<br><br>
+<b>Basic knowledge</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -40,7 +57,8 @@ I’m currently focusing on improving my skills with **Lua / Luau**, and I plan 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuelpscampos/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SamuelPSCampos)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuelpscampos/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SamuelPSCampos)  
 
 ---
 
