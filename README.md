@@ -38,4 +38,10 @@ I’m currently focusing on improving my skills with **Lua / Luau**, and I plan 
 
 ---
 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuelpscampos/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SamuelPSCampos)  
+
+---
+
 Thanks for visiting my profile!
