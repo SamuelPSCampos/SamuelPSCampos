@@ -12,7 +12,7 @@ I'm an **intermediate Lua / Luau programmer** with a strong interest in **game d
 <td align="center">
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Luau-00CFCF?style=for-the-badge&logo=lua&logoColor=white">
+<img src="https://img.shields.io/badge/Luau-00CFCF?style=for-the-badge&logo=luau&logoColor=white">
 <br><br>
 <b>Intermediate level</b>
 </td>
@@ -63,7 +63,7 @@ I’m currently focusing on improving my skills with **Lua / Luau**, and I plan 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuelpscampos/) 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/samuelpscampos/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SamuelPSCampos)  
 
 ---
